@@ -105,8 +105,6 @@ module TB;
         presetn = 1'b1;
         repeat (5) @(posedge pclk);
 
-        // --------- Replace placeholders below with your real data! ----------
-        // Your data:
         // номер в списке группы:
         my_group_number    = 32'd15;
         my_date_ddmmyyyy   = 32'd26102025;
